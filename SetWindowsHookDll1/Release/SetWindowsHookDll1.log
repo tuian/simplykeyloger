@@ -1,0 +1,22 @@
+﻿生成启动时间为 2015/10/20 3:35:59。
+     1>项目“F:\simplykeyloger\SetWindowsHookDll1\SetWindowsHookDll1.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D SETWINDOWSHOOKDLL1_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\SetWindowsHookDll1.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D SETWINDOWSHOOKDLL1_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D SETWINDOWSHOOKDLL1_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\SetWindowsHookDll1.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SetWindowsHookDll1.cpp
+         SetWindowsHookDll1.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\simplykeyloger\SetWindowsHookDll1\Release\SetWindowsHookDll1.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\simplykeyloger\SetWindowsHookDll1\Release\SetWindowsHookDll1.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\simplykeyloger\SetWindowsHookDll1\Release\SetWindowsHookDll1.lib" /MACHINE:X86 /SAFESEH /DLL Release\dllmain.obj
+         Release\SetWindowsHookDll1.obj
+         Release\stdafx.obj
+            正在创建库 F:\simplykeyloger\SetWindowsHookDll1\Release\SetWindowsHookDll1.lib 和对象 F:\simplykeyloger\SetWindowsHookDll1\Release\SetWindowsHookDll1.exp
+         正在生成代码
+         已完成代码的生成
+         SetWindowsHookDll1.vcxproj -> F:\simplykeyloger\SetWindowsHookDll1\Release\SetWindowsHookDll1.dll
+     1>已完成生成项目“F:\simplykeyloger\SetWindowsHookDll1\SetWindowsHookDll1.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.26
